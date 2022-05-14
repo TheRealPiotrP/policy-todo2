@@ -1,1 +1,3 @@
-# policy-todo2
+# policy-todo
+
+A policy Aserto's sample todo application.
